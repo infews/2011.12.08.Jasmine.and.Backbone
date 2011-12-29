@@ -8,6 +8,6 @@ This presentation has a quick introduction to Jasmine, then gives some tips, tri
 
 I gave this talk at the [Castro Street Startup Slide](http://www.meetup.com/startupslide/). Thanks to Ben Curren for the opportunity to speak.
 
-Like all of my talks, this was built using [Keydown](http://github.com/infews/keydown).
+Like all of my talks, this was built using [Keydown](http://github.com/infews/keydown). To view, you need to clone locally and open slides.html in an HTML5-happy browser.
 
 --dwf
